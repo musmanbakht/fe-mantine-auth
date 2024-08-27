@@ -1,6 +1,7 @@
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+this template uses mantine and context api, and provides login and signup pages, and upon successful login you should be able to access protected routes.
 
 Currently, two official plugins are available:
 
